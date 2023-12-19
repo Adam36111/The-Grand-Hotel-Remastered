@@ -1133,3 +1133,8 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.19-20.56.28:213][  0]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.12.19-20.56.28:213][  0]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
 [2023.12.19-20.56.28:249][  0]LogAutomationController: Ignoring very large delta of 16807734.27 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.12.19-20.58.33:010][275]LogDerivedDataCache: C:/Users/dylan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:13.219 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 7243 files in 9434 folders with total size 279 MiB.
+[2023.12.19-20.58.39:538][335]LogViewport: Scene viewport resized to 730x534, mode Windowed.
+[2023.12.19-20.58.41:039][428]LogViewport: Scene viewport resized to 725x526, mode Windowed.
+[2023.12.19-20.58.44:370][622]LogViewport: Scene viewport resized to 730x534, mode Windowed.
+[2023.12.19-20.59.03:639][357]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
