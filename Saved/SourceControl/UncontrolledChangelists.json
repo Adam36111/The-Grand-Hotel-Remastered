@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/UNREAL_ENGINE_PROJECTS/Hotel/Content/Levels/Ground_Floor.umap",
+				"E:/UNREAL_ENGINE_PROJECTS/Hotel/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/UNREAL_ENGINE_PROJECTS/Hotel/Content/ThirdPerson/Blueprints/TasksAndEvents/BPP_ParentPickup.uasset",
+				"E:/UNREAL_ENGINE_PROJECTS/Hotel/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+			]
+		}
+	]
+}
