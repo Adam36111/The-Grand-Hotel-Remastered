@@ -1149,3 +1149,26 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.19-18.40.56:007][  0]LogViewport: Scene viewport resized to 1521x868, mode Windowed.
 [2023.12.19-18.40.56:510][  4]LogSlate: Took 0.000082 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2023.12.19-18.41.04:603][292]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.12.19-18.42.03:429][133]LogSlate: Window 'Revision Control Login' being destroyed
+[2023.12.19-18.42.07:424][347]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.19-18.42.08:154][367]LogViewport: Scene viewport resized to 550x313, mode Windowed.
+[2023.12.19-18.42.08:780][384]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.12.19-18.42.10:567][450]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.19-18.42.12:255][500]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.19-18.42.14:321][616]LogContentBrowser: Deferred new asset file creation: BPP_ParentPickup_Child
+[2023.12.19-18.42.14:322][616]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.19-18.42.14:364][616]LogContentBrowser: Creating deferred item: BPP_ParentPickup_Child
+[2023.12.19-18.42.14:397][617]LogContentBrowser: Renaming the item being created (Deferred Item: BPP_ParentPickup_Child).
+[2023.12.19-18.42.16:567][688]LogContentBrowser: Attempting asset rename: BPP_ParentPickup_Child -> BP_Test
+[2023.12.19-18.42.16:776][688]LogContentBrowser: End creating deferred item BPP_ParentPickup_Child
+[2023.12.19-18.42.16:785][688]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.19-18.42.18:043][726]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.12.19-18.42.18:209][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2023.12.19-18.42.18:316][733]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.12.19-18.42.18:413][733]LogPackageLocalizationCache: Processed 44 localized package path(s) for 1 prioritized culture(s) in 0.004896 seconds
+[2023.12.19-18.42.18:578][733]LogSerialization: UsePackageTrailer: 'true'
+[2023.12.19-18.42.18:609][733]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/TasksAndEvents/BP_Test
+[2023.12.19-18.42.18:609][733]LogSavePackage: Moving 'C:/Users/abozo/Documents/GitHub/The-Grand-Hotel-Remastered/Saved/BP_Test008D787E4DD717BC4F1737B603AD448B.tmp' to 'C:/Users/abozo/Documents/GitHub/The-Grand-Hotel-Remastered/Content/ThirdPerson/Blueprints/TasksAndEvents/BP_Test.uasset'
+[2023.12.19-18.42.18:878][733]LogFileHelpers: InternalPromptForCheckoutAndSave took 561 ms
+[2023.12.19-18.42.18:881][733]AssetCheck: New page: Asset Save: BP_Test
+[2023.12.19-18.42.18:881][733]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/TasksAndEvents/BP_Test.BP_Test
