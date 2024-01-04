@@ -937,3 +937,80 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.02-01.31.53:304][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
 [2024.01.02-01.31.53:304][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
 [2024.01.02-01.31.53:310][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2024.01.02-01.31.54:696][  0]LogUProjectInfo: Found projects:
+[2024.01.02-01.31.54:726][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.01.02-01.31.54:726][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.01.02-01.31.54:726][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2024.01.02-01.31.54:991][  0]LogUObjectArray: 33999 objects as part of root set at end of initial load.
+[2024.01.02-01.31.54:991][  0]LogUObjectAllocator: 10171880 out of 0 bytes used by permanent object pool.
+[2024.01.02-01.31.54:991][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2024.01.02-01.31.55:035][  0]LogInit: Executing Class /Script/UnrealEd.WorldPartitionBuilderCommandlet
+[2024.01.02-01.31.55:035][  0]LogInit: Initializing Editor Engine...
+[2024.01.02-01.31.55:035][  0]LogEngine: Initializing Engine...
+[2024.01.02-01.31.55:040][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2024.01.02-01.31.56:725][  0]LogInit: Initializing FReadOnlyCVARCache
+[2024.01.02-01.31.56:752][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.02-01.31.56:767][  0]LogAIModule: Creating AISystem for world Untitled
+[2024.01.02-01.31.56:768][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2024.01.02-01.31.56:768][  0]LogInit: Texture streaming: Enabled
+[2024.01.02-01.31.56:858][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2024.01.02-01.31.56:875][  0]LogInit: Initializing Editor Engine Completed
+[2024.01.02-01.31.57:148][  0]BlueprintLog: New page: Editor Load
+[2024.01.02-01.31.57:220][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2024.01.02-01.31.57:470][  0]LogWorldPartitionBuilderCommandlet: Display: Execution started...
+[2024.01.02-01.31.57:471][  0]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/Levels/Map_AdmilTestLevel.
+[2024.01.02-01.31.58:009][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Fall_Loop.MM_Fall_Loop
+[2024.01.02-01.31.58:029][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Idle.MM_Idle
+[2024.01.02-01.31.58:038][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Jump.MM_Jump
+[2024.01.02-01.31.58:043][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Land.MM_Land
+[2024.01.02-01.31.58:053][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Run_Fwd.MM_Run_Fwd
+[2024.01.02-01.31.58:072][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_Fwd.MM_Walk_Fwd
+[2024.01.02-01.31.58:082][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Manny/MM_Walk_InPlace.MM_Walk_InPlace
+[2024.01.02-01.31.58:129][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Idle.MF_Idle
+[2024.01.02-01.31.58:143][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Run_Fwd.MF_Run_Fwd
+[2024.01.02-01.31.58:151][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Animations/Quinn/MF_Walk_Fwd.MF_Walk_Fwd
+[2024.01.02-01.31.58:179][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2024.01.02-01.31.58:244][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.02-01.31.58:244][  0]LogWorldPartition: ULevel::OnLevelLoaded(Map_AdmilTestLevel)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.01.02-01.31.58:244][  0]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.01.02-01.31.58:244][  0]LogWorldPartition: UWorldPartition::Initialize(Asset=Map_AdmilTestLevel, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.01.02-01.31.59:272][  0]LogSkeletalMesh: Display: [AssetLog] C:\Users\abozo\Documents\GitHub\The-Grand-Hotel-Remastered\Content\PolygonWestern\Meshes\Characters\SK_Character_Sheriff_01.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2024.01.02-01.31.59:280][  0]LogSkeletalMesh: Display: [AssetLog] C:\Users\abozo\Documents\GitHub\The-Grand-Hotel-Remastered\Content\PolygonWestern\Meshes\Characters\SK_Character_WorkingGirl_01.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2024.01.02-01.31.59:779][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim
+[2024.01.02-01.31.59:785][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_r_anim.Manny_calf_r_anim
+[2024.01.02-01.31.59:792][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_l_anim.Manny_clavicle_l_anim
+[2024.01.02-01.31.59:799][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_clavicle_r_anim.Manny_clavicle_r_anim
+[2024.01.02-01.31.59:806][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_l_anim.Manny_foot_l_anim
+[2024.01.02-01.31.59:815][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_foot_r_anim.Manny_foot_r_anim
+[2024.01.02-01.31.59:821][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_l_anim.Manny_hand_l_anim
+[2024.01.02-01.31.59:827][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_hand_r_anim.Manny_hand_r_anim
+[2024.01.02-01.31.59:833][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_l_anim.Manny_lowerarm_l_anim
+[2024.01.02-01.31.59:841][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_lowerarm_r_anim.Manny_lowerarm_r_anim
+[2024.01.02-01.31.59:847][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_l_anim.Manny_thigh_l_anim
+[2024.01.02-01.31.59:854][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_thigh_r_anim.Manny_thigh_r_anim
+[2024.01.02-01.31.59:862][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_l_anim.Manny_upperarm_l_anim
+[2024.01.02-01.31.59:869][  0]LogAnimationCompression: Display: Fetched compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_upperarm_r_anim.Manny_upperarm_r_anim
+[2024.01.02-01.32.00:243][  0]LogSkeletalMesh: Display: [AssetLog] C:\Users\abozo\Documents\GitHub\The-Grand-Hotel-Remastered\Content\PolygonWestern\Meshes\Weapons\SK_Wep_American_Bayonet_01.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2024.01.02-01.32.00:248][  0]LogContentBundle: [Map_AdmilTestLevel(Standalone)] Creating new contrainer.
+[2024.01.02-01.32.00:248][  0]LogWorldPartition: Display: WorldPartition initialize took 2.00 sec
+[2024.01.02-01.32.00:264][  0]LogSlate: Using FreeType 2.10.0
+[2024.01.02-01.32.00:287][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2024.01.02-01.32.00:363][  0]LogWorldPartition: Display: GetPartitionedActors started...
+[2024.01.02-01.32.00:363][  0]LogWorldPartition: Display: GetPartitionedActors took 40 us
+[2024.01.02-01.32.00:381][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2024.01.02-01.32.00:381][  0]LogWorldPartition: GC Performed - Available Physical: 3.18GB, Available Virtual: 9.11GB
+[2024.01.02-01.32.00:390][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.01.02-01.32.00:390][  0]LogWorldPartition: GC Performed - Available Physical: 3.18GB, Available Virtual: 9.11GB
+[2024.01.02-01.32.00:393][  0]LogWorldPartitionHLODsBuilder: Display: #### World HLOD actors ####
+[2024.01.02-01.32.00:393][  0]LogWorldPartitionHLODsBuilder: Display: #### World contains 0 HLOD actors ####
+[2024.01.02-01.32.00:401][  0]LogWorldPartitionHLODsBuilder: Display: #### Building 0 HLOD actors ####
+[2024.01.02-01.32.00:401][  0]LogWorldPartitionHLODsBuilder: Display: #### Built 0 HLOD actors ####
+[2024.01.02-01.32.00:401][  0]LogWorld: UWorld::CleanupWorld for Map_AdmilTestLevel, bSessionEnded=true, bCleanupResources=true
+[2024.01.02-01.32.00:403][  0]LogContentBundle: [Map_AdmilTestLevel(Standalone)] Deleting container.
+[2024.01.02-01.32.00:403][  0]LogWorldPartitionBuilderCommandlet: Display: Execution took 2.93 sec
+[2024.01.02-01.32.00:403][  0]LogCore: Engine exit requested (reason: Commandlet WorldPartitionBuilderCommandlet_0 finished execution (result 0))
+[2024.01.02-01.32.00:403][  0]LogInit: Display: Finished.
+[2024.01.02-01.32.00:403][  0]LogInit: Display: 
+Execution of commandlet took:  2.95 seconds
+[2024.01.02-01.32.00:403][  0]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 0)
+[2024.01.02-01.32.00:403][  0]LogCore: Engine exit requested (reason: Win RequestExit; note: exit was already requested)
